@@ -1,0 +1,1 @@
+# foreman_compute_resources_statistics_view
