@@ -4,6 +4,15 @@ A small plugin to showcase the awesome [Deface](https://github.com/spree/deface)
 library. It simply adds a statistics to the ComputeResources list and properties table. It also
 adds new max values and usage values statisticss to compute resources new/edit form where we can set the max cpus, memory and size and overusage of cups, memory and size of the compute resource. These values are used to display the statistics.
 
+# Screenshots
+![Statistics in Compute resource list page](https://raw.githubusercontent.com/ingenico-group/screenshots/master/foreman_compute_resources_statistics_view/comp-res-statistics-list-page.png)
+
+![Statistics in Compute resource show page](https://raw.githubusercontent.com/ingenico-group/screenshots/master/foreman_compute_resources_statistics_view/Statistics-in-show-page.png)
+
+![Statistics fields in Compute resource form](https://raw.githubusercontent.com/ingenico-group/screenshots/master/foreman_compute_resources_statistics_view/statistics-fields-to-comp-res-form.png)
+
+
+
 # Installation
 
 Require the gem in Foreman (you may need extra dependencies such as libxml or libxslt
