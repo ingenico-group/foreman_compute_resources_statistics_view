@@ -86,6 +86,7 @@ only read at startup.
 
 This gem will display statistics only for compute resources of types Ovirt, Libvirt and Vmware
 
-# Copyright
+## License
 
-Copyright (c) 2015 Ingenico
+GPLv3
+
